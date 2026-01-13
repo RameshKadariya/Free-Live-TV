@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Premium Gold Luxury Theme -->
+    <color name="luxury_gold">#FFD700</color>
+    <color name="luxury_gold_dark">#B8860B</color>
+    <color name="luxury_gold_light">#FFF8DC</color>
+    <color name="luxury_gold_accent">#DAA520</color>
+    
+    <color name="luxury_black">#0A0A0A</color>
+    <color name="luxury_dark_gray">#1A1A1A</color>
+    <color name="luxury_gray">#2A2A2A</color>
+    <color name="luxury_light_gray">#3A3A3A</color>
+    
+    <color name="luxury_background">#0F0F0F</color>
+    <color name="luxury_card_bg">#1C1C1C</color>
+    <color name="luxury_text_primary">#FFFFFF</color>
+    <color name="luxury_text_secondary">#C0C0C0</color>
+    <color name="luxury_text_gold">#FFD700</color>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LuxuryChip" parent="Widget.Material3.Chip.Filter">
+        <item name="chipBackgroundColor">@color/luxury_card_bg</item>
+        <item name="chipStrokeColor">@color/luxury_gold</item>
+        <item name="chipStrokeWidth">1dp</item>
+        <item name="android:textColor">@color/luxury_text_primary</item>
+        <item name="chipCornerRadius">20dp</item>
+        <item name="chipMinHeight">36dp</item>
+        <item name="android:textSize">13sp</item>
+        <item name="checkedIconVisible">false</item>
+    </style>
+
+    <style name="LuxuryChipSelected" parent="LuxuryChip">
+        <item name="chipBackgroundColor">@color/luxury_gold</item>
+        <item name="android:textColor">@color/luxury_black</item>
+        <item name="chipStrokeWidth">0dp</item>
+    </style>
+</resources>
