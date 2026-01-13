@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏆 GoldStream IPTV
+# 🏆 Free Live TV
 
 <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 <img src="https://img.shields.io/badge/API-24%2B-brightgreen?style=for-the-badge" alt="API"/>
@@ -10,10 +10,6 @@
 ### ✨ *The Most Luxurious IPTV Player for Android* ✨
 
 **Stream 7000+ Live TV Channels with Premium Gold-Themed Interface**
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/yourusername/GoldStream-IPTV/main/screenshots/banner.png" alt="GoldStream Banner" width="800"/>
 
 <br/>
 
@@ -27,7 +23,7 @@
 
 <br/>
 
-## 🎯 Why GoldStream?
+## 🎯 Why Free Live TV?
 
 <table>
 <tr>
@@ -134,7 +130,7 @@
 
 <div align="center">
 
-**[⬇️ Download Latest APK](https://github.com/yourusername/GoldStream-IPTV/releases/latest)**
+**[⬇️ Download Latest APK](https://github.com/RameshKadariya/Free-Live-TV/releases/latest)**
 
 <br/>
 
@@ -146,10 +142,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/GoldStream-IPTV.git
+git clone https://github.com/RameshKadariya/Free-Live-TV.git
 
 # Navigate to project
-cd GoldStream-IPTV
+cd Free-Live-TV
 
 # Build debug APK
 ./gradlew assembleDebug
@@ -314,13 +310,13 @@ We welcome contributions! Here's how you can help:
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/GoldStream-IPTV?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/GoldStream-IPTV?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/GoldStream-IPTV?style=social)
+![GitHub stars](https://img.shields.io/github/stars/RameshKadariya/Free-Live-TV?style=social)
+![GitHub forks](https://img.shields.io/github/forks/RameshKadariya/Free-Live-TV?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/RameshKadariya/Free-Live-TV?style=social)
 
-![GitHub issues](https://img.shields.io/github/issues/yourusername/GoldStream-IPTV)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/GoldStream-IPTV)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/GoldStream-IPTV)
+![GitHub issues](https://img.shields.io/github/issues/RameshKadariya/Free-Live-TV)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/RameshKadariya/Free-Live-TV)
+![GitHub last commit](https://img.shields.io/github/last-commit/RameshKadariya/Free-Live-TV)
 
 </div>
 
@@ -396,10 +392,11 @@ This app is for educational and personal use only. All channels are sourced from
 
 <br/>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/GoldStream-IPTV&type=Date)](https://star-history.com/#yourusername/GoldStream-IPTV&Date)
+<!-- Star History Chart - Shows how your repo grows over time! -->
+[![Star History Chart](https://api.star-history.com/svg?repos=RameshKadariya/Free-Live-TV&type=Date)](https://star-history.com/#RameshKadariya/Free-Live-TV&Date)
 
 <br/>
 
-**[⬆ Back to Top](#-goldstream-iptv)**
+**[⬆ Back to Top](#-free-live-tv)**
 
 </div>
